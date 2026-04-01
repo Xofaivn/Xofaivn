@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Huy or you can call me Xoài or Xofai!
 
 🎓 I'm currently a **3rd-year student at Ho Chi Minh City University of Technology (HCMUT)**
-💻 Passionate about **Software Development, Data Science, and Machine Learning**
+💻 Passionate about **Software Development and Machine Learning**
 
 ---
 
