@@ -2,7 +2,10 @@
 
 🎓 I'm currently a **3rd-year student at Ho Chi Minh City University of Technology (HCMUT)**
 💻 Passionate about **Software Development, Data Science, and Machine Learning**
-🚀 Always learning and building new things
+
+---
+
+<h4>Outside of coding, I enjoy playing badminton 🏸, listening to music 🎧, watching movies 🎬, and trekking 🏔️.</h4>
 
 ---
 
@@ -24,6 +27,7 @@ Connect with me
 <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=google-chrome"/>
 </a>
 </p>
+
 ---
 
 🛠️ Stack:
@@ -40,7 +44,6 @@ Databases
 Tools & DevOps
 <p align="left"> <img src="https://skillicons.dev/icons?i=git,docker,vscode,figma" /> </p>
 
-dùng này ở đâu
 ---
 
 ## 📌 Projects
@@ -53,6 +56,3 @@ dùng này ở đâu
 
 ---
 
-## ⚡ Fun Fact
-
-I love building things from scratch and turning ideas into real products 🚀
